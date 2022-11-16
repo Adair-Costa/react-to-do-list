@@ -56,12 +56,12 @@ const App = () => {
     }
 
     return (
-        <div className="container w-50">
+        <div className="container w-50 w-20">
             <div className="row">
                 <div className="col">
 
                     <div className="text-center p-3 mb-5 text-uppercase">
-                        <h1 className="fs-3">{ iconList } To-do-list</h1>
+                        <h1 className="fs-3 to-do-list">{ iconList } To-do-list</h1>
                         <hr />
                     </div>
 
